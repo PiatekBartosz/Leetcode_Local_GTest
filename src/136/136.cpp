@@ -1,10 +1,9 @@
 #include <iostream>
+#include "136.hpp"
 
 using namespace std;
 
-int main(void) 
-{ 
-    
-
-    return 0;
+int Solution::singleNumber(vector<int> &nums)
+{
+    return 10;
 }

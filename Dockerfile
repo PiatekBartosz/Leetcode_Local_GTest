@@ -12,5 +12,6 @@ RUN apt update && \
     gcc \ 
     g++ \ 
     cmake \
-    python3-pip
+    python3-pip \
+    make
 
