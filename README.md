@@ -7,6 +7,3 @@ It is setup with Docker, CMake, GTest in order to solve leetcode projects locall
 This repo is for fun only.
 
 It might be developed in the future to support C, C++, Python, Rust leetcode solutions.
-
-# Inspiration for the environment
-https://levelup.gitconnected.com/how-to-combine-c-cmake-googletest-circleci-docker-and-why-e02d76c060a3
