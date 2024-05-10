@@ -1,0 +1,26 @@
+{
+    "name": "C++",
+
+    "build": {
+        "dockerfile": "../Dockerfile",
+    },
+
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-azuretools.vscode-docker",
+                "ms-python.python",
+                "ms-vscode.cpptools-extension-pack",
+                "mhutchie.git-graph"
+            ],
+
+            "settings":{
+                "terminal.integrated.profiles.linux": {
+                    "bash": {
+                        "path": "zsh"
+                    }
+                }
+            } 
+        }
+    }
+}
